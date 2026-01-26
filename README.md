@@ -2,32 +2,27 @@
 <p align='center'>
 <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=25&center=true&vCenter=true&width=433&height=75&lines=I'm+Alejandro+Markovic;Software+Engineer;Frontend+Developer;Mobile+Developer;%40Alejandro+Markovic">
 </p>
-	<img src="https://komarev.com/ghpvc/?username=alejandromarkovic&label=Profile%20views&color=0047AB&style=plastic?" alt="ProfileViews" height=25px, width=160px/> 
+	<img src="https://komarev.com/ghpvc/?username=Neo&label=Profile%20views&color=0047AB&style=plastic?" alt="ProfileViews" height=25px, width=160px/> 
 
 <img align="right" src="https://media.giphy.com/media/QvpqTCiEcwtvx6wwJK/giphy.gif" width="270" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></img>
 
 
-- 🌱 I’m currently learning **Backend Development**
-
-- 👨‍💻 Explore my projects at [alejandromarkovic.netlify.app](https://alejandromarkovic.netlify.app)
+- 🌱 I’m currently learning **FullStack Development**
 
 - 💬 Ask me about **React,React Native, Next.js, Node.js**
 
-- 📫 Reach me at **alejandromarkovic@gmail.com**
+- 📫 Reach me at **alexandercorleone674@gmail.com**
 
-- 📄 Learn more about my experiences at [alejandromarkovic.netlify.app](https://alejandromarkovic.netlify.app)
 
 
 ### Connect with me 🔗 :
 <br>
 <p align='center'>
-<a href="mailto:alejandromarkovic@gmail.com" target="_blank">
+<a href="mailto:alexandercorleone673@gmail.comm" target="_blank">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>&nbsp;&nbsp;
-<a href="https://www.instagram.com/alejandromarkovic" target="_blank">
+<a href="https://www.instagram.com/ale.xndr.r" target="_blank">
 <img src="https://img.shields.io/badge/alejandromarkovic-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/alejandro-markovic" target="_blank">
-<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>&nbsp;&nbsp;
 </p>
 <br>
 
