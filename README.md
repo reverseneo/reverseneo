@@ -34,15 +34,12 @@
 <a href="https://www.python.org/" target="_blank">
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 </a>
-
 <a href="https://www.cplusplus.com/" target="_blank">
   <img alt="C++" src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
 </a>
-
 <a href="https://www.microsoft.com/en-us/sql-server" target="_blank">
   <img alt="SQL" src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white">
 </a>
-
 <a href="https://www.mongodb.com/" target="_blank">
   <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
 </a>
@@ -82,9 +79,6 @@
 <a href="https://www.figma.com/" target="_blank">
   <img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
 </a>
-<hr><br>
-<hr><br>
-
 ------
 Credit: [Neo](https://github.com/reverseneo)
 
