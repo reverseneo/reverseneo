@@ -22,7 +22,7 @@
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>&nbsp;&nbsp;
 <a href="https://www.instagram.com/ale.xndr.r" target="_blank">
-<img src="https://img.shields.io/badge/alejandromarkovic-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Neo-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>&nbsp;&nbsp;
 </p>
 <br>
 
@@ -92,14 +92,6 @@
   <img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
 </a>
 
-![snake gif](https://github.com/alejandromarkovic/alejandromarkovic/blob/output/github-contribution-grid-snake.svg)
-
-
-
-## Github Contribution Streak 🔥 
-<br>
-<p align='center'><img src="https://github-readme-streak-stats.herokuapp.com?user=alejandromarkovic&theme=black-ice&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"></p>
-
 <hr><br>
 
 ## Github Stats &nbsp;📊
@@ -113,13 +105,13 @@
 ## Most Used Languages 📚
 <br>
 <p align='center'>
-<img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=alejandromarkovic&theme=dark&hide_border=true&no-bg=true&no-frame=true&langs_count=10">
+<img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=neo&theme=dark&hide_border=true&no-bg=true&no-frame=true&langs_count=10">
 </p>
 
 <hr>
 <br>
 
 ------
-Credit: [Alejandro Markovic](https://github.com/alejandromarkovic)
+Credit: [Neo](https://github.com/reverseneo)
 
 Last Edited on: 18/01/2026
